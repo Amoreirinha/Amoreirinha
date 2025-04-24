@@ -6,6 +6,8 @@ on:
   # Allow manual triggering of the workflow
   workflow_dispatch:
   # Trigger the workflow on pushes to the main branch
+  permissions:
+  contents: write
   push:
     branches:
       - main
