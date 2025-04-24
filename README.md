@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💫 About Me:
 ⚡ Electronics Technician | 💻 Computer Science Student @ UNIFAL<br>🌱 Currently Learning: Python, JavaScript, Deep Learning & Machine Learning<br>🔧 Skills: Problem-solving, automation, embedded systems, and data analysis<br>🤖 Interests: AI, Robotics, IoT, and Open-Source Projects<br>📚 Goals: Contribute to impactful tech projects & master AI/ML engineering<br>🚀 Fun Fact: Love tinkering with hardware and turning ideas into code!
 
@@ -16,6 +18,12 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+
+![snake gif](https://github.com/Amoreirinha/Amoreirinha/blob/output/github-snake-dark.svg)
+
+
 [![](https://visitcount.itsvg.in/api?id=Amoreirinha&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
