@@ -17,6 +17,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Amoreirinha&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
 
 ![snake gif](https://github.com/Amoreirinha/Amoreirinha/blob/output/github-snake-dark.svg)
